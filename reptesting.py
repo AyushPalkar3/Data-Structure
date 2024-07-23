@@ -1,6 +1,7 @@
 print("aysuh")
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("college branch changes ")
 =======
 print("Palkar")
@@ -8,3 +9,7 @@ print("Palkar")
 =======
 print("Palkar")
 >>>>>>> refs/remotes/origin/college
+=======
+print("Palkar")
+print("pull requeat")
+>>>>>>> 3cc058d11db9cec6e8d0296e6551333ccd02151d
