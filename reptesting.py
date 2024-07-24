@@ -9,5 +9,5 @@ print("Palkar")
 
 
 print("Palkar")
-print("pull requeat")
+print("pull request")
 
