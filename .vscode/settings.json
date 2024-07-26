@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "ARRAYadt.C": "cpp"
+        "ARRAYadt.C": "cpp",
+        "linkedLIST.C": "cpp"
     }
 }
