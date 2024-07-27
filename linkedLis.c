@@ -8,7 +8,7 @@ struct Node
 void linkedListTraversal(struct Node* ptr){
     while (ptr!=NULL)
     {
-    printf("Element :- %d\n",ptr->data);
+    printf("Element :- %d\nff",ptr->data);
     ptr=ptr->next;
     }
     
