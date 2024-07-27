@@ -9,6 +9,7 @@ void showArr(int arr[],int n){
     printf("-------------------------------\n");
 }
 
+
 int sortedInsert(int arr[],int size,int eelement,int capacity,int index){
     if(size>=capacity){
         printf("Array is full");
